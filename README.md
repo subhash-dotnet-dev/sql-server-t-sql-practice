@@ -1,4 +1,4 @@
-# 📘 SQL Server (T-SQL) – Hands-on Practice & Backend Development
+# 📘 SQL Server (T-SQL) – Hands-on Practice & Backend Development 
 
 ## 👨‍💻 About This Repository
 
